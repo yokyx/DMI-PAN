@@ -11,5 +11,6 @@ NVIDIA GPU + CUDA
 Python packages: numpy,pandas,scipy,sklearn
 
 # Pretrained model
-Please download the pretrained model, and put it under weights/
+You can download the pretrained model from the link below.
+[Download DMI-PAN Pretrained Model (250 MB)](https://github.com/your-username/DMI-PAN/releases/download/v1.0/dmi-pan_model.pth)
 
