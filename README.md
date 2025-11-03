@@ -12,5 +12,5 @@ Python packages: numpy,pandas,scipy,sklearn
 
 # Pretrained model
 You can download the Pseudo-label Generation Classifier pretrained model from the link below.
-[Pseudo-label Generation Classifier]([https://github.com/your-username/DMI-PAN/releases/download/v1.0/dmi-pan_model.pth](https://github.com/yokyx/DMI-PAN/releases/download/v1.0/Classifier_pre_train.pth))
+[Pseudo-label Generation Classifier](https://github.com/yokyx/DMI-PAN/releases/download/v1.0/Classifier_pre_train.pth)
 
