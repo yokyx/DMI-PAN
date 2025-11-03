@@ -6,8 +6,11 @@ Pain is a stressor for intensive care unit (ICU) patients, and inadequate pain a
 
 # Install and compile the prerequisites：
 Python 3.9
+
 PyTorch >= 1.8
+
 NVIDIA GPU + CUDA
+
 Python packages: numpy,pandas,scipy,sklearn
 
 # Pretrained model
