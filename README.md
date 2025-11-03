@@ -14,3 +14,7 @@ Python packages: numpy,pandas,scipy,sklearn
 You can download the Pseudo-label Generation Classifier pretrained model from the link below.
 [Pseudo-label Generation Classifier](https://github.com/yokyx/DMI-PAN/releases/download/v1.0/Classifier_pre_train.pth)
 
+# DATASET
+You can access the UNBC-MCMASTER SHOULDER PAIN ARCHIVE dataset by visiting https://www.jeffcohn.net/Resources/ to apply for access.
+Our dataset ICUPED will be conditionally made available after the article is published. Stay tuned.
+
